@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Roger Gerber Quirino
-- 👀 I'm interested in Web Development, Database, Frameworks, Enjoying my life y climbing mountain.
-- 🌱 I’m currently learning frameworks, programming languages. 
+- 👀 I'm interested in Web Development, Database, Frameworks, Enjoying my life and climbing mountain.
+- 🌱 I’m currently learning frameworks and programming languages. 
 
 <!---
 rgdesarrollador1/rgdesarrollador1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
